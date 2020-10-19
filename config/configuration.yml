@@ -3,11 +3,11 @@ data_queue_port: 5551
 controls_queue_port: 5552
 # Constant properties
 path_to_training: "../../training/"
-recording_height: 120
-recording_width: 180
+recording_height: 80
+recording_width: 160
 recording_fps: 20
 frame_height: 50
-frame_width: 180
+frame_width: 160
 
 # Procedural flags
 control_mode: full_model # modes: full_model, shared, full_expert
